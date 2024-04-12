@@ -2,6 +2,7 @@
     width: 370px;
     height: 404px;
     border: 1px solid rgba(238, 238, 238);
+    text-align: center;
   }
   .exmp3 img {
     object-fit: cover;
@@ -13,7 +14,6 @@
     text-decoration: none;
     color: black;
     background: var(--background-color);
-
 }
 .btn-new-rad {
     border-radius: 4px;
