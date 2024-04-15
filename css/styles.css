@@ -190,10 +190,6 @@ a {
     background: var(--accent-color);
     position: relative;
 }
-/* hidden-h1 */
-.hidden-h1 {
-    display: none;
-}
 /* h2 */
 .second-heading {
     font-family: var(--font-family);

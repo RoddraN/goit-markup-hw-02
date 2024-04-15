@@ -39,3 +39,7 @@
     position: relative;
     bottom: 2px;
 }
+/* hidden-h1 */
+.hidden-h1 {
+    display: none;
+}
