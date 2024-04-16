@@ -35,7 +35,7 @@
     line-height: 162%;
     letter-spacing: 0.03em;
     text-align: center;
-    border: 103px 38px var(--accent-color);
+    border: var(--accent-color);
     text-decoration: none;
     color: black;
     background: var(--background-color);
